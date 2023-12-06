@@ -4,8 +4,8 @@ void bfs(int x){
     while(!q.empty()){
         int c=q.front();
         q.pop();
-        for(int i=0; i<v[c].size(); i++){
-            int k=v[c][i];
+        for(int i=0; i<adj[c].size(); i++){
+            int k=adj[c][i];
             if(vis[k]==1) continue;
             q.push(k);
             vis[k]=1;
