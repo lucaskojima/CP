@@ -8,4 +8,3 @@
 - [[Errichto] How to Practice](https://github.com/Errichto/youtube/wiki/How-to-practice%3F)
 - [[Galen Colin] Candidate Master in 1 Year](https://www.youtube.com/watch?v=9M5voWYmie4)
 - [[Galen Colin] My Practice Strategy](https://www.youtube.com/watch?v=fmfuLRnFZBc)
-- [[IOI] Interview: Benjamin Qi](https://ioinformatics.org/interview/interview-benjamin-qi/27?event=july-2020)
