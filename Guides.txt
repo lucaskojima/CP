@@ -5,5 +5,6 @@
 - [Errichto] How to Practice: https://github.com/Errichto/youtube/wiki/How-to-practice%3F
 - [Usaco Guide] How to Practice: https://usaco.guide/general/practicing
 
+### Videos
 - [Galen Colin] Candidate Master in 1 Year: https://www.youtube.com/watch?v=9M5voWYmie4
 - [Galen Colin] My Practice Strategy: https://www.youtube.com/watch?v=fmfuLRnFZBc
