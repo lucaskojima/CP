@@ -1,3 +1,4 @@
+// Time Complexity: O(1)
 // (x1, y1) -> bottom left
 // (x2, y2) -> top right
 // increasing x moves right
