@@ -8,3 +8,7 @@
 ### Videos
 - [Galen Colin] Candidate Master in 1 Year: https://www.youtube.com/watch?v=9M5voWYmie4
 - [Galen Colin] My Practice Strategy: https://www.youtube.com/watch?v=fmfuLRnFZBc
+
+### Roadmaps
+- [E869120] A way to Practice Competitive Programming : From Rating 1000 to 2400+: https://codeforces.com/blog/entry/66909
+- [Galen Colin] Complete Roadmap for Competitive Programming: https://www.youtube.com/watch?v=bSdp2WeyuJY
