@@ -1,3 +1,5 @@
+// Time Complexity: O(n^2)
+
 	vector<int>sorted;
 	for(int i=0; i<n; i++){
 		int menor=1e9, idx;
