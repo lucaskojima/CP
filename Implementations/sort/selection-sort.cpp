@@ -1,4 +1,5 @@
 // Time Complexity: O(n^2)
+// There are always n steps, and each step is O(n), so time complexity is always O(n^2)
 
 	vector<int>sorted;
 	for(int i=0; i<n; i++){
