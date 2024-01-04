@@ -1,13 +1,12 @@
-//sorta em O(n^2)
-
+	vector<int>sorted;
 	for(int i=0; i<n; i++){
-		menor=INF;
+		int menor=1e9, idx;
 		for(int j=0; j<n; j++){
 			if(marc[j]==0 && v[j]<menor){
 				menor=v[j];
 				idx=j;
 			}
 		}
-		cout << menor << " ";
+		sorted.push_back(v[idx]);
 		marc[idx]=1;
 	}
