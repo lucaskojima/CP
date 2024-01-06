@@ -1,3 +1,5 @@
+// Time Complexity: O(V+E)
+
 void bfs(int x){
     queue<int>q; q.push(x);
     vis[x]=1; //dist[x]=0;
