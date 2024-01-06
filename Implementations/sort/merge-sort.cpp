@@ -1,3 +1,5 @@
+// Time Complexity: O(nlogn)
+
 void merge(int ini, int fim){
 	if(ini==fim) return;
 	
