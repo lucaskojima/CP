@@ -1,3 +1,5 @@
+// Time Complexity: O(2^n)
+
 void hanoi(int n, int ini, int fim){
 	if(n==0) return;
 	
