@@ -7,22 +7,19 @@ void setIO(string s){
 	freopen((s+".out").c_str(),"w",stdout);
 }
 
+const int MAXN=1010;
+int marc[MAXN];
+
 int main(){
 	setIO("breedflip");
 
 	int n; cin >> n;
 	string a, b; cin >> a >> b;
 	
-	int ans=0; bool ok=false;
+	int ans=0;
 	for(int i=0; i<n; i++){
-		if(a[i]!=b[i]){
-			if(!ok){
-				ok=true;
-				ans++;
-			}
-		} else {
-			ok=false;
-		}
+		if(a[i]!=b[i]) marc[i]=1;
+		if(a[i]!=b[i] && (i==0 || marc[i-1]==0)) ans++;
 	}
 	
 	cout << ans;
