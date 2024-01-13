@@ -1,9 +1,12 @@
-### Blogs
+### Codeforces Blogs
 - [Radewoosh] My opinion on how to practice competitive programming: https://codeforces.com/blog/entry/91114
 - [-is-this-fft-] Self-deception: maybe why you're still grey after practicing every day: https://codeforces.com/blog/entry/98621
 - [Um_nik] How to practice Competitive Programming: https://codeforces.com/blog/entry/98806
+
+### Other Blogs
 - [Errichto] How to Practice: https://github.com/Errichto/youtube/wiki/How-to-practice%3F
 - [Usaco Guide] How to Practice: https://usaco.guide/general/practicing
+- [Evan Chen] Math contest platitudes, v3: https://blog.evanchen.cc/2019/01/31/math-contest-platitudes-v3/
 
 ### Videos
 - [Galen Colin] Candidate Master in 1 Year: https://www.youtube.com/watch?v=9M5voWYmie4
