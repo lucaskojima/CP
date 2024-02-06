@@ -14,14 +14,14 @@ int main(){
 		if(c=='G') g.push_back(p);
 	}
 	
-	sort(l.rbegin(), l.rend());
+	sort(l.begin(), l.end());
 	sort(g.begin(), g.end());
 	
-	int k=1;
+	int k=1, j=0, sz=l.size();
 	for(int i=0; i<g.size(); i++){
-		for(int j=0; j<l.size(); j++){
-			if(l[j]>=g[i]) k=max(k, i+j+2);
-		}
+		while(l[j]<g[i] && j<sz) j++;
+		
+		k=max(k, i-j+sz+1);
 	}
 	
 	cout << n-k;
