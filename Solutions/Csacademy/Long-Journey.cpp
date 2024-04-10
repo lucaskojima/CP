@@ -23,11 +23,9 @@ void bfs(int x, char seed){
 void dfs(int x, int val){
     vis[x]=1;
     for(auto k : adj[x]){
-        if(vis[k]==0){
-            if(dista[x]==dista[k]+1 && distb[x]==distb[k]+1){
+        if(vis[k]==0 && dista[x]==dista[k]+1 && distb[x]==distb[k]+1){
                 ans=max(ans, val+1);
                 dfs(k, val+1);
-            }
         }
     }
 }
