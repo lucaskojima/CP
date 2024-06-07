@@ -5,8 +5,4 @@ syntax on
 
 "Keybinds
 inoremap {<CR> {<CR>}<Esc>O
-nnoremap <C-a> <Esc>ggVG<CR>
 nnoremap <TAB> %
-
-nnoremap <F1> <nop>
-inoremap <F1> <nop>
