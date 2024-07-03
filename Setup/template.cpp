@@ -13,7 +13,6 @@ using pii = pair<int, int>;
 using ll = long long;
  
 const char nl = '\n';
-
 const ll LINF = (1LL<<60);
 const int INF = (1<<30);
  
