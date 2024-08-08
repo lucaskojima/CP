@@ -1,6 +1,6 @@
 * Data Structures
    - DSU
-   - Min Queue/Stack
+   - Minqueue
 
 * Graph
    - DFS
