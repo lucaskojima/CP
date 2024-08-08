@@ -1,0 +1,35 @@
+* Data Structures
+   - DSU
+   - Min Queue/Stack
+
+* Graph
+   - DFS
+   - Shortest Distance
+      - BFS
+      - BFS 0-1
+      - Dijkstra
+   - Topological Sort
+      - DFS Order
+      - Kahn
+   - MST
+      - Prim
+      - Kruskal
+
+* Tree
+   - Tree Diameter
+   - Tree Center
+
+* Math
+   - Primality Test
+   - Divisors
+   - Prime Factors
+   - GCD LCM
+   - Sieve
+   - Exponenciation
+
+* Problems
+   - Histogram Area
+   - Edit Distance
+   - Hanoi Tower
+   - LIS
+   - LCS
