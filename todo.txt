@@ -4,16 +4,13 @@
 
 * Graph
    - DFS
-   - Shortest Distance
-      - BFS
-      - BFS 0-1
-      - Dijkstra
+   - BFS
+   - BFS 0-1
+   - Dijkstra
    - Topological Sort
-      - DFS Order
-      - Kahn
-   - MST
-      - Prim
-      - Kruskal
+   - Kahn
+   - Prim
+   - Kruskal
 
 * Tree
    - Tree Diameter
