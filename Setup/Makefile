@@ -1,6 +1,1 @@
-f ?= 1
-ifeq ($(f), 0)
-	CXXFLAGS = -std=c++17 -O2
-else
-	CXXFLAGS = -std=c++17 -Wall -Wextra -Wshadow -Wconversion -Wfloat-equal -Wduplicated-cond -Wlogical-op -fsanitize=undefined -fsanitize=address
-endif
+CXXFLAGS = -std=c++17 -O2 -Wall -Wextra -g3 -fsanitize=address,undefined
