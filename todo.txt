@@ -2,14 +2,14 @@
    DSU
       - DSU
       - DSU Rollback
-   - Minqueue
+   - Min/Max queue
 
 * Graph
    Graph Transversal
       - DFS
       - BFS
    Shortest Path
-      - BFS 0-1
+      - 0-1 BFS
       - Dijkstra
       - Bellman-Ford
       - Floyd-Warshall
