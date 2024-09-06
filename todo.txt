@@ -1,20 +1,26 @@
 * Data Structures
-   - DSU
+   DSU
+      - DSU
+      - DSU Rollback
    - Minqueue
 
 * Graph
-   - DFS
-   - BFS
-   - BFS 0-1
-   - Dijkstra
+   Graph Transversal
+      - DFS
+      - BFS
+   Shortest Path
+      - BFS 0-1
+      - Dijkstra
+      - Bellman-Ford
+      - Floyd-Warshall
+   Spanning Tree
+      - Prim
+      - Kruskal
+   Tree
+      - Tree Diameter
+      - Tree Center
+      - LCA
    - Topological Sort
-   - Kahn
-   - Prim
-   - Kruskal
-
-* Tree
-   - Tree Diameter
-   - Tree Center
 
 * Math
    - Primality Test
