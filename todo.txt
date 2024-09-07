@@ -19,7 +19,6 @@
    Tree
       - Tree Diameter
       - Tree Center
-      - LCA
    - Topological Sort
 
 * Math
