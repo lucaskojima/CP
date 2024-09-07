@@ -1,7 +1,5 @@
 * Data Structures
-   DSU
-      - DSU
-      - DSU Rollback
+   - DSU
    - Min/Max queue
 
 * Graph
@@ -11,8 +9,6 @@
    Shortest Path
       - 0-1 BFS
       - Dijkstra
-      - Bellman-Ford
-      - Floyd-Warshall
    Spanning Tree
       - Prim
       - Kruskal
@@ -29,9 +25,9 @@
    - Sieve
    - Fast Exponenciation
 
-* Problems
-   - Histogram Area
-   - Edit Distance
-   - Hanoi Tower
-   - LIS
-   - LCS
+* Sort
+   - Bubble Sort
+   - Counting Sort
+   - Insertion Sort
+   - Merge Sort
+   - Selecting Sort
