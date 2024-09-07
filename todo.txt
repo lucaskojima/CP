@@ -27,7 +27,7 @@
    - Prime Factors
    - GCD/LCM
    - Sieve
-   - Exponenciation
+   - Fast Exponenciation
 
 * Problems
    - Histogram Area
