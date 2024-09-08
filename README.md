@@ -8,7 +8,7 @@
 ### Graph
 
 - Graph Transversal
-  - DFS
+  - [DFS](https://github.com/lucaskojima/CP/blob/main/Implementations/graph/dfs.cpp)
   - BFS
 - Shortest Path
   - 0/1 BFS
