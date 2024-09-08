@@ -2,24 +2,24 @@
 
 ### Data Structures
 
-- DSU
-- Min/Max Queue
+  DSU
+  Min/Max Queue
 
 ### Graph
 
-- Graph Transversal
-  - [DFS](https://github.com/lucaskojima/CP/blob/main/Implementations/graph/dfs.cpp)
-  - BFS
-- Shortest Path
-  - 0/1 BFS
-  - Dijkstra
-- Spanning Tree
-  - Prim
-  - Kruskal
-- Tree
-  - Diameter
-  - Center
-- Topological Sort
+  Graph Transversal
+    [DFS](https://github.com/lucaskojima/CP/blob/main/Implementations/graph/dfs.cpp)
+    BFS
+  Shortest Path
+    0/1 BFS
+    Dijkstra
+  Spanning Tree
+    Prim
+    Kruskal
+  Tree
+    Diameter
+    Center
+  Topological Sort
 
 ### Math
 
