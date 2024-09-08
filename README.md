@@ -5,7 +5,7 @@
 - DSU
 - Min/Max Queue
 
-## Graph
+### Graph
 
 - Graph Transversal
   - DFS
@@ -21,7 +21,7 @@
   - Center
 - Topological Sort
 
-## Math
+### Math
 
 - Primality Test
 - Divisors
@@ -30,7 +30,7 @@
 - Sieve
 - Fast Exponenciation
 
-## Sorting
+### Sorting
 
 - Bubble Sort
 - Counting Sort
@@ -38,7 +38,7 @@
 - Merge Sort
 - Selecting Sort
 
-### Resources
+## Resources
 - [Usaco Guide](https://usaco.guide/)
 - [CP-Algorithms](https://cp-algorithms.com/)
 - [ITMO Academy](https://codeforces.com/edu/course/2)
