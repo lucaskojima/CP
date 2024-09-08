@@ -1,23 +1,25 @@
-* Data Structures
+## Implementations
+
+### Data Structures
    - DSU
    - Min/Max queue
 
-* Graph
-   Graph Transversal
+### Graph
+   - Graph Transversal
       - DFS
       - BFS
-   Shortest Path
+   - Shortest Path
       - 0-1 BFS
       - Dijkstra
-   Spanning Tree
+   - Spanning Tree
       - Prim
       - Kruskal
-   Tree
+   - Tree
       - Tree Diameter
       - Tree Center
    - Topological Sort
 
-* Math
+### Math
    - Primality Test
    - Divisors
    - Prime Factors
@@ -25,7 +27,7 @@
    - Sieve
    - Fast Exponenciation
 
-* Sort
+### Sorting
    - Bubble Sort
    - Counting Sort
    - Insertion Sort
