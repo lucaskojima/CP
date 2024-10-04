@@ -1,4 +1,4 @@
-#include "bits/stdc++.h"
+#include <bits/stdc++.h>
 #define ff first
 #define ss second
 #define all(x) (x).begin(), (x).end()
@@ -13,7 +13,7 @@ const char nl = '\n';
 const ll LINF = 0x3f3f3f3f3f3f3f3f;
 const int INF = 0x3f3f3f3f;
 
-int main(){
+int main() {
 	ios::sync_with_stdio(0), cin.tie(0);
 
 	
