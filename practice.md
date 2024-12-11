@@ -1,9 +1,9 @@
 ## Generic Practice Strategies
-- [Radewoosh] My opinion on how to practice competitive programming: https://codeforces.com/blog/entry/91114
-- [-is-this-fft-] Self-deception: maybe why you're still grey after practicing every day: https://codeforces.com/blog/entry/98621
-- [Um_nik] How to practice Competitive Programming: https://codeforces.com/blog/entry/98806
-- [Errichto] How to Practice: https://github.com/Errichto/youtube/wiki/How-to-practice%3F
-- [Usaco Guide] How to Practice: https://usaco.guide/general/practicing
+- [[Radewoosh] My opinion on how to practice competitive programming](https://codeforces.com/blog/entry/91114)
+- [[-is-this-fft-] Self-deception: maybe why you're still grey after practicing every day](https://codeforces.com/blog/entry/98621)
+- [[Um_nik] How to practice Competitive Programming](https://codeforces.com/blog/entry/98806)
+- [[Errichto] How to Practice](https://github.com/Errichto/youtube/wiki/How-to-practice%3F)
+- [[Usaco Guide] How to Practice](https://usaco.guide/general/practicing)
 
 ## Specific Practice Strategies
 - [E869120] A way to Practice Competitive Programming : From Rating 1000 to 2400+: https://codeforces.com/blog/entry/66909
