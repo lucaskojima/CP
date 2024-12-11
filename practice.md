@@ -13,6 +13,13 @@
 ## Mentality
 - [Galen Colin] [The Dark Side of Competitive Programming](https://www.youtube.com/watch?v=NfUxtnJ0CaY)
 
-## Math
+## Math-Related
 - [Evan Chen] [Math contest platitudes, v3](https://blog.evanchen.cc/2019/01/31/math-contest-platitudes-v3/)
 - [Zhtluo] [The Reason You are Bad at Codeforces — You are Not Russian Enough](https://codeforces.com/blog/entry/126310)
+
+## Todo
+- [Benq] [IOI Benq Inverview](https://ioinformatics.org/interview/interview-benjamin-qi/27?event=july-2020)
+- [Benq] [Benq Repository](https://github.com/bqi343/cp-notebook/tree/master/Resources)
+- [Nor] [How to learn better, and what most people don't get about learning](https://nor-blog.codeberg.page/posts/2023-01-19-learning-better/)
+- [Um_nik] [Pro Tips — get them while they are free](https://codeforces.com/blog/entry/113785)
+- [SuperJ6] [How to Effectively Practice CP + Problem Solving Guide](https://codeforces.com/blog/entry/116371)
