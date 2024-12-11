@@ -1,18 +1,18 @@
-# # Generic Practice Strategies
+## Generic Practice Strategies
 - [Radewoosh] My opinion on how to practice competitive programming: https://codeforces.com/blog/entry/91114
 - [-is-this-fft-] Self-deception: maybe why you're still grey after practicing every day: https://codeforces.com/blog/entry/98621
 - [Um_nik] How to practice Competitive Programming: https://codeforces.com/blog/entry/98806
 - [Errichto] How to Practice: https://github.com/Errichto/youtube/wiki/How-to-practice%3F
 - [Usaco Guide] How to Practice: https://usaco.guide/general/practicing
 
-# # Specific Practice Strategies
+## Specific Practice Strategies
 - [E869120] A way to Practice Competitive Programming : From Rating 1000 to 2400+: https://codeforces.com/blog/entry/66909
 - [Galen Colin] Candidate Master in 1 Year: https://www.youtube.com/watch?v=9M5voWYmie4
 - [Galen Colin] My Practice Strategy: https://www.youtube.com/watch?v=fmfuLRnFZBc
 
-# # Mentality
+## Mentality
 - [Galen Colin] The Dark Side of Competitive Programming: https://www.youtube.com/watch?v=NfUxtnJ0CaY
 
-# # Math
+## Math
 - [Evan Chen] Math contest platitudes, v3: https://blog.evanchen.cc/2019/01/31/math-contest-platitudes-v3/
 - [Zhtluo] The Reason You are Bad at Codeforces — You are Not Russian Enough: https://codeforces.com/blog/entry/126310
