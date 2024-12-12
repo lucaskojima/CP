@@ -23,3 +23,4 @@
 - [Nor] [How to learn better, and what most people don't get about learning](https://nor-blog.codeberg.page/posts/2023-01-19-learning-better/)
 - [Um_nik] [Pro Tips — get them while they are free](https://codeforces.com/blog/entry/113785)
 - [SuperJ6] [How to Effectively Practice CP + Problem Solving Guide](https://codeforces.com/blog/entry/116371)
+- [Galen Colin] [THE OPTIMAL PRACTICE STRATEGY (**NOT CLICKBAIT**)](https://codeforces.com/blog/entry/129125)
