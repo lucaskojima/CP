@@ -1,4 +1,4 @@
-## Generic Practice Strategies
+## General Ideas
 - [Radewoosh] [My opinion on how to practice competitive programming](https://codeforces.com/blog/entry/91114)
 - [-is-this-fft-] [Self-deception: maybe why you're still grey after practicing every day](https://codeforces.com/blog/entry/98621)
 - [Um_nik] [How to practice Competitive Programming](https://codeforces.com/blog/entry/98806)
