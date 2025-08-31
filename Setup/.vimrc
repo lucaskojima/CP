@@ -1,6 +1,20 @@
-set nocp nu rnu ts=4 sw=4 si lbr so=5 bs=2 ru sc wmnu is mouse=a
+call plug#begin()
+
+Plug 'tpope/vim-dispatch'
+
+call plug#end()
+
+set nocp nu rnu et ts=2 sw=2 ai nowrap so=5 bs=2 ru sc wmnu is mouse=a bg=light
 filetype plugin indent on
 syntax on
 
 inoremap {<CR> {<CR>}<Esc>O
-nnoremap <TAB> %
+nnoremap <C-a> <Esc>ggVG<CR>
+nnoremap <F1> <nop>
+inoremap <F1> <nop>
+
+set makeprg=g++\ -std=c++17\ -O2\ %\ -o\ %<
+autocmd filetype cpp nnoremap <F1> :w <bar> Make <CR>
+autocmd filetype cpp nnoremap <F2> :!./%< <CR>
+
+autocmd BufNewFile *.cpp 0r ~/cp/template.cpp
