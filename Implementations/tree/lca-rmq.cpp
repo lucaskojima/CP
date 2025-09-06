@@ -10,9 +10,10 @@ struct lca_solver {
   vector<int> first;
   sparse_table<pii> st;
 
-  lca_solver(const vector<vector<int>> &adj) : first(sz(adj)), st((dfs(adj, 1, -1), euler)) {}
+  using T = vector<vector<int>>;
+  lca_solver(const T &adj) : first(sz(adj)), st((dfs(adj, 1, -1), euler)) {}
 
-  void dfs(const vector<vector<int>> &adj, int x, int p, int h = 0) {
+  void dfs(const T &adj, int x, int p, int h = 0) {
     first[x] = sz(euler);
     euler.push_back({h, x});
     for (int k : adj[x]) if (k != p) {
