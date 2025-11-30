@@ -11,8 +11,6 @@ mkdir "$PROB_NAME" || { exit 1; }
 
 if [ -d "$TEMPLATE" ] && [ "$(ls -A "$TEMPLATE")" ]; then
 	cp -r "$TEMPLATE"/* "$PROB_NAME"
-else
-	echo "Warning: '$TEMPLATE' directory not found or empty."
 fi
 
-echo "Generated problem '$PROB_NAME'."
+echo "Generated problem '$PROB_NAME'"
