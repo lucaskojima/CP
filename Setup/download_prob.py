@@ -35,7 +35,7 @@ class RequestHandler(BaseHTTPRequestHandler):
                     outfile.write(test['output'])
 
             self.send_response(200)
-            print(f"Saved {idx + 1} sample(s).")
+            print(f"Saved {idx + 1} sample(s)")
         except json.JSONDecodeError:
             self.send_response(400)
             self.wfile.write(b'Invalid JSON')
