@@ -7,6 +7,7 @@ template<class S, auto op, auto e> struct segtree {
 
     void update(int i) { d[i] = op(d[2 * i], d[2 * i + 1]); }
   public:
+    segtree(int n) : segtree(vector<S>(n, e())) {}
     segtree(const vector<S> &v) : n(int(v.size())) {
       size = 1, log = 0;
       while (size < n) size *= 2, log++;
